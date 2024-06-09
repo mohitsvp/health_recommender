@@ -1,0 +1,15 @@
+crewai
+crewai[tools]
+python-dotenv
+PyPDF2
+langchain
+langchain_community
+duckduckgo-search
+langchain-groq
+langchain_google_genai
+langchain-openai
+fpdf
+flask
+flask-bcrypt
+pymongo
+pyjwt
